@@ -43,11 +43,7 @@ Que te parece si descubrimos como puede estar estructurado el departamento de da
 
 Bueno si bien es cierto que este analisis no tiene la verdad absoluta, veamos los que nos contaron nuestros datos para que tu puedes sacar tus propias conclusiones luego de tener una panoramica.
 
-Leyenda:
-- EN: Entry Level - JR
-- Mid: Mid Level
-- SE: Senior
-- EX: Experto
+
 ![](https://i.pinimg.com/564x/a2/60/70/a2607094320735b91a5649f70c9fd2f6.jpg)
 
 Que tal esta belleza de grafico donde puedes observar cada uno de los salarios no solo por seniority si no tambien por disciplina.
