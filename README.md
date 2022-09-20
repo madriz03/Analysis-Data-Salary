@@ -18,11 +18,11 @@ Segun nuestro analisis pudimos concluir que las disciplinas mas demandas son las
 
 Por lo que decidimos enfocarnos en estas 4 disciplinas.
 
-**Son varios factores que pueden incidir o estar directamente relacionados para definir cual es el salario de un profesional, por lo que hicimos una grafico de correlacion.
-**
+Son varios factores que pueden incidir o estar directamente relacionados para definir cual es el salario de un profesional, por lo que hicimos una grafico de correlacion.
+
 ![](https://i.pinimg.com/564x/90/0e/08/900e081e6b9d3b25655af09d4640c182.jpg)
 
-Donde podemos observar que el año al cual pertenece la data y la modalidad de trabajo  remoto son las variables que tienen mayor correlacion con el salario, esto puede darnos una idea de como ha tomado fuerza el trabajo remoto y que se pueden tener buenos salarios y muchas veces salarios mas altos que un trabajo tradicional.
+
 
 **Tambien vimos un crecimiento considerable en estas diciplinas entre el año 2020 y 2022 cada año superando al anterior.**
 ![](https://i.pinimg.com/564x/77/17/c2/7717c244833b3518dccda71b6ed7382e.jpg)
