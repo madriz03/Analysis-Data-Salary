@@ -1,6 +1,6 @@
 # SALARY ANALYST DATA
 ### **Contexto**
-A continuacion les presento un analisis donde filtramos un dataset descargado de [kaggle.com](http://https://www.kaggle.com/ "kaggle.com") el cual filtramos para hacer una comparativa y encontrar las disciplinas mas demandadas en la industria de los datos, asi como tambien encontrar y clasificar los salarios por:
+A continuacion les presento un analisis donde filtramos un dataset descargado de [kaggle.com](http://https://www.kaggle.com/ "kaggle.com") en el cual quisimos hacer una comparativa para encontrar las disciplinas mas demandadas en la industria de los datos, asi como tambien responder otras interrogantes en cuanto a salarios.
 
 - Disciplina mas ocupada
 - Salario mas alto
@@ -9,7 +9,7 @@ A continuacion les presento un analisis donde filtramos un dataset descargado de
 - Salario por Disicplina
 - Salario por seniority
 
-Para asi tener una idea del rango salarial en el mundo de los datos y como puede estar distribuido este departamento y los distintos perfiles.
+Asi tendremos una  idea de como esta el  rango salarial en el mundo de los datos y como pueden estar distribuidos los distintos perfiles de este departamento.
 
 ### Resumen
 Segun nuestro analisis pudimos concluir que las disciplinas mas demandas son las siguientes:
@@ -22,7 +22,7 @@ Por lo que decidimos enfocarnos en estas 4 disciplinas.
 **
 ![](https://i.pinimg.com/564x/90/0e/08/900e081e6b9d3b25655af09d4640c182.jpg)
 
-Donde podemos observar que el año al cual pertenece la data y la modalidad remota son las variables con mayor correlacion con el salario, esto puede darnos una idea de como ha tomado fuerza el trabajo remoto y que se pueden tener buenos salarios y muchas veces salarios mas altos que un trabajo tradicional.
+Donde podemos observar que el año al cual pertenece la data y la modalidad de trabajo  remoto son las variables que tienen mayor correlacion con el salario, esto puede darnos una idea de como ha tomado fuerza el trabajo remoto y que se pueden tener buenos salarios y muchas veces salarios mas altos que un trabajo tradicional.
 
 **Tambien vimos un crecimiento considerable en estas diciplinas entre el año 2020 y 2022 cada año superando al anterior.**
 ![](https://i.pinimg.com/564x/77/17/c2/7717c244833b3518dccda71b6ed7382e.jpg)
@@ -33,7 +33,7 @@ Donde podemos observar que el año al cual pertenece la data y la modalidad remo
 
 Te lo imaginabas? bueno ponte comodo que aun tenemos datos por descubir.
 
-Que te parece si descubrimos como puede estar estructurado el departamento de data, como podria estar conformados cada departamento, es posible que un departamento necesite mas profesionales que otro? descrubramoslo a continuación.
+Que te parece si descubrimos como puede estar estructurado el departamento de data, como podria estar conformado cada departamento, es posible que un departamento necesite mas profesionales que otro? descrubramoslo a continuación.
 
 ![](https://i.pinimg.com/564x/8f/cc/a7/8fcca777274790877869301bdeacddd0.jpg)
 
@@ -43,33 +43,38 @@ Que te parece si descubrimos como puede estar estructurado el departamento de da
 
 Bueno si bien es cierto que este analisis no tiene la verdad absoluta, veamos los que nos contaron nuestros datos para que tu puedes sacar tus propias conclusiones luego de tener una panoramica.
 
-**Leyenda:
-EN: Entry Level - JR
-MI: Mid-Level
-SE: Senior
-EX: Experto**
+Leyenda:
+- EN: Entry Level - JR
+- Mid: Mid Level
+- SE: Senior
+- EX: Experto
 ![](https://i.pinimg.com/564x/a2/60/70/a2607094320735b91a5649f70c9fd2f6.jpg)
 
 Que tal esta belleza de grafico donde puedes observar cada uno de los salarios no solo por seniority si no tambien por disciplina.
 
-La idea de este analisis es tener una idea de como se estaria comportando el mercado laboral para la industria de los datos, asi como tambien despertar tu interes para seguir investigando y que cada uno pueda tener sus propias conclusiones.
+La idea de este analisis es descubrir  como se estaria comportando el mercado laboral para la industria de los datos, asi como tambien despertar tu interes para seguir investigando y que cada uno pueda encontrar y definir sus propias conclusiones.
 
 **Que tal si por ultimo miramos el Dashboard global de nuestro analisis?**
 ![](https://i.pinimg.com/564x/b3/d0/e0/b3d0e00b5dd805bfcd3758c35c7ee1dc.jpg)
 
-**Si quieres ver mas a detalle este Dashboard o cualquier otro de los que e realizado te invito a visitar mi perfil de**  [Tableau](http://https://public.tableau.com/app/profile/javier5027 "Tableau")
+**Si quieres ver mas a detalle este Dashboard o cualquier otro de los que e realizado te invito a visitar mi perfil de**
 
-Si quieres ponerte en contacto conmigo puedes hacerlo a traves de mis redes sociales [Linkedin](http://https://www.linkedin.com/in/javiermadriz3/ "Linkedin") | [Twitter](http://https://twitter.com/madriz03 "Twitter")
+[Tableau](http://public.tableau.com/app/profile/javier5027 "Tableau")
 
-
-
-
-
-
+Si quieres ponerte en contacto conmigo puedes hacerlo a traves de mis redes sociales:
+[Linkedin](http://www.linkedin.com/in/javiermadriz3/ "Linkedin")
+[Twitter](http://twitter.com/madriz03 "Twitter")
 
 
 
 
 
-Este trabajo lo realice inspirandome en el siguiente analisis:
-[http://https://www.kaggle.com/code/hakankeskin/data-science-job-salaries-eda](http://https://www.kaggle.com/code/hakankeskin/data-science-job-salaries-eda)
+
+
+Para hacer este analisis me inspire en el siguiente proyecto:
+
+[Proyecto en Kaggle](http://www.kaggle.com/code/hakankeskin/data-science-job-salaries-eda "Proyecto en Kaggle")
+
+
+
+
