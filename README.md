@@ -24,7 +24,7 @@ Son varios factores que pueden incidir o estar directamente relacionados para de
 
 
 
-**Tambien vimos un crecimiento considerable en estas diciplinas entre el año 2020 y 2022 cada año superando al anterior.**
+**Tambien vimos un crecimiento considerable en estas diciplinas entre el año 2020 y 2022 cada año superando al anterior**
 ![](https://i.pinimg.com/564x/77/17/c2/7717c244833b3518dccda71b6ed7382e.jpg)
 
 **Que tal si miramos el promedio salarial que encontramos para cada disciplina?**
